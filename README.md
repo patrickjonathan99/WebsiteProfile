@@ -1,3 +1,23 @@
+# Website Profile
+
+# Home Page
+![Gambar Home Page](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/homePage.png)
+
+# About Us Page
+![Gambar About Us Page](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/aboutUsPage.png)
+
+# Audrey's Profile
+![Gambar Audrey's Profile](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/audrey's%20profile.png)
+
+# Jocelyn's Profile
+![Gambar Jocelyn's Profile](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/jocely's%20profile.png)
+
+# Patrick's Profile
+![Gambar Patrick's Profile](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/patrick's%20profile.png)
+
+# Stella's Profile
+![Gambar Stella's Profile](https://github.com/patrickjonathan99/WebsiteProfile/blob/master/screenshot%20images/stella's%20profile.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
