@@ -29,4 +29,16 @@ Route::prefix('/aboutUs')->group(function() {
     Route::get('/Patrick', function () {
         return view('patrick');
     });
+
+    Route::get('/Jocelyn', function () {
+        return view('jocelyn');
+    });
+
+    Route::get('/Audrey', function () {
+        return view('audrey');
+    });
+
+    Route::get('/Stella', function () {
+        return view('stella');
+    });
 });

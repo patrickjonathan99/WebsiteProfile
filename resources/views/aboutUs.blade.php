@@ -41,7 +41,7 @@
         <div class="card">
             <div class="card-image">
                 <figure class="image is-square">
-                    <img src="/img/patrick.jpg" alt="patrick">
+                    <img src="/img/audrey.jpg" alt="audrey">
                 </figure>
             </div>
 
@@ -49,7 +49,7 @@
                 <div class="media">
                     <div class="media-content">
                         <p class="title is-5">
-                            <a href="#">
+                            <a href="/aboutUs/Audrey">
                                 Audrey Tabitha Ariani
                             </a>    
                         </p>
@@ -64,7 +64,7 @@
         <div class="card">
             <div class="card-image">
                 <figure class="image is-square">
-                    <img src="/img/patrick.jpg" alt="patrick">
+                    <img src="/img/jocelyn.jpg" alt="jocelyn">
                 </figure>
             </div>
 
@@ -72,7 +72,7 @@
                 <div class="media">
                     <div class="media-content">
                         <p class="title is-5">
-                            <a href="#">
+                            <a href="/aboutUs/Jocelyn">
                                 Jocelyn Wievin
                             </a>
                         </p>
@@ -112,7 +112,7 @@
         <div class="card">
             <div class="card-image">
                 <figure class="image is-square">
-                    <img src="/img/patrick.jpg" alt="patrick">
+                    <img src="/img/stella.jpg" alt="stella">
                 </figure>
             </div>
 
@@ -120,7 +120,7 @@
                 <div class="media">
                     <div class="media-content">
                         <p class="title is-5">
-                            <a href="#">
+                            <a href="/aboutUs/Stella">
                                 Stella Elviana
                             </a>    
                         </p>

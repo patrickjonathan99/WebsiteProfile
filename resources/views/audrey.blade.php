@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     <link rel="stylesheet" href="/css/profile.css">
     <script src="https://kit.fontawesome.com/b75608f116.js" crossorigin="anonymous"></script>
-    <title>Patrick's Profile</title>
+    <title>Audrey's Profile</title>
 </head>
 <body>
     <div class="navbar-container">
@@ -36,20 +36,20 @@
 
     <div class="profile-container">
         <div class="left-profile">
-            <img src="/img/patrick.jpg" alt="patrick">
-            <p class="profile-name">Patrick Jonathan</p>
+            <img src="/img/audrey.jpg" alt="audrey">
+            <p class="profile-name">Audrey Tabitha Ariani</p>
             <div class="icon-container">
                 <div class="location">
                     <p class="fa-2xl fa-sharp fa-solid fa-location-dot"></p>
-                    <p class="nama-jalan">Jalan Salak Barat 6 No.14A</p>
+                    <p class="nama-jalan">Jl. Boulevard Raya</p>
                 </div>
                 <div class="phone">
                     <p class="fa-xl fa-solid fa-phone-volume"></p>
-                    <p class="nomor-telpon">081287187138</p>
+                    <p class="nomor-telpon">081288139034</p>
                 </div>
                 <div class="email">
                     <p class="fa-xl fa-sharp fa-solid fa-envelope"></p>
-                    <p class="alamat-email">pj141299@gmail.com</p>
+                    <p class="alamat-email">audrey.ariani@binus.ac.id</p>
                 </div>
             </div>
         </div>
@@ -58,21 +58,20 @@
             <div class="aboutMe">
                 <p class="mySection">About Me</p>
                 <p>
-                    Saya merupakan seorang mahasiswa semester 6 di Universitas Bina
-                    Nusantara dengan jurusan Teknik Informatika dan Statistika. Mata 
-                    Kuliah yang paling saya sukai adalah Regression Analysis. Saya
-                    merupakan orang yang memiliki rasa ingin tahu yang tinggi, cepat
-                    belajar, dan mampu beradaptasi dengan lingkungan. Saya tertarik
-                    untuk memiliki pengalaman kerja dalam bidang teknik informatika
+                Saya merupakan seorang mahasiswa semester 6 di Universitas Bina Nusantara 
+                dengan jurusan Teknik Informatika dan Statistika. Mata kuliah yang paling 
+                saya sukai adalah Deep Learning and Optimization. Saya gigih, menyukai tantangan 
+                di bidang yang saya minati, dan memiliki tekad serta komitmen yang tinggi untuk 
+                meraih tujuan saya. Saya tertarik untuk bekerja di bidang Artificial Intelligence 
+                atau Actuarial Science.
                 </p>
             </div>
 
             <div class="exp">
                 <p class="mySection">Experience</p>
-                <li class="boldFont">2022 - 2023</li>
-                <p>Koordinator Divisi Learning, Resouce and Development</p>
-                <p>Himpunan Mahasiswa Statistika</p>
-                <p>Universitas Bina Nusantara</p>
+                <li class="boldFont">June 2022 - October 2022</li>
+                <p>Content Writer Volunteer</p>
+                <p>Forest Is Our Friend</p>
             </div>
 
             <div class="edu">
@@ -88,55 +87,55 @@
                 <p class="mySection">Soft Skill</p>
                 <div class="bar">
                     <p class="namaSkill">Teamwork</p>
-                    <progress class="progress is-info" value="80" max="100"></progress>
+                    <progress class="progress is-danger" value="78" max="100"></progress>
+                </div>
+                <div class="bar">
+                    <p class="namaSkill">Problem Solving</p>
+                    <progress class="progress is-info" value="88" max="100"></progress>
                 </div>
                 <div class="bar">
                     <p class="namaSkill">Responsibility</p>
-                    <progress class="progress is-success" value="95" max="100"></progress>
+                    <progress class="progress is-info" value="85" max="100"></progress>
                 </div>
                 <div class="bar">
-                    <p class="namaSkill">Critical Thinking</p>
+                    <p class="namaSkill">Flexibility</p>
                     <progress class="progress is-success" value="90" max="100"></progress>
-                </div>
-                <div class="bar">
-                    <p class="namaSkill">Public Speaking</p>
-                    <progress class="progress is-danger" value="70" max="100"></progress>
                 </div>
             </div>
 
             <div class="hard-skill">
                 <p class="mySection">Hard Skill</p>
                 <div class="bar">
-                    <p class="namaSkill">SQL</p>
-                    <progress class="progress is-success" value="90" max="100"></progress>
-                </div>
-                <div class="bar">
-                    <p class="namaSkill">R</p>
-                    <progress class="progress is-info" value="80" max="100"></progress>
-                </div>
-                <div class="bar">
-                    <p class="namaSkill">Java</p>
+                    <p class="namaSkill">Data Analysis</p>
                     <progress class="progress is-info" value="88" max="100"></progress>
                 </div>
                 <div class="bar">
-                    <p class="namaSkill">Python</p>
-                    <progress class="progress is-danger" value="75" max="100"></progress>
+                    <p class="namaSkill">Math/Statistics</p>
+                    <progress class="progress is-danger" value="78" max="100"></progress>
+                </div>
+                <div class="bar">
+                    <p class="namaSkill">Machine Learning</p>
+                    <progress class="progress is-info" value="88" max="100"></progress>
+                </div>
+                <div class="bar">
+                    <p class="namaSkill">Drawing</p>
+                    <progress class="progress is-success" value="95" max="100"></progress>
                 </div>
             </div>
 
             <div class="hobby">
                 <p class="mySection">Hobbies</p>
                 <div class="bar">
-                    <p class="namaSkill">Playing Chess</p>
-                    <progress class="progress is-danger" value="65" max="100"></progress>
-                </div>
-                <div class="bar">
                     <p class="namaSkill">Swimming</p>
-                    <progress class="progress is-info" value="85" max="100"></progress>
+                    <progress class="progress is-info" value="80" max="100"></progress>
                 </div>
                 <div class="bar">
-                    <p class="namaSkill">Watching Movie</p>
-                    <progress class="progress is-success" value="95" max="100"></progress>
+                    <p class="namaSkill">Listen to Music</p>
+                    <progress class="progress is-success" value="100" max="100"></progress>
+                </div>
+                <div class="bar">
+                    <p class="namaSkill">Drawing</p>
+                    <progress class="progress is-danger" value="77" max="100"></progress>
                 </div>
             </div>
         </div>
